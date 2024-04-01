@@ -3,11 +3,12 @@ Write a program that asks the user to enter 5 numbers, and then prints the arith
 
 For example:
 
-Enter 5 numbers:
-number 1: 5
-number 2: 3.14
-number 3: 1.23
-number 4: 100
-number 5: 0.01
+                            Enter the 5 Numbers: 
+                            Number 1: 5
+                            Number 2: 3.14
+                            Number 3: 1.23
+                            Number 4: 100
+                            Number 5: 0.01
 
-The mean of [5.00, 3.14, 1.23, 100.00, 0.01] is 21.88
+                            The mean of [5.00, 3.14, 1.23, 100, 0.01]
+
